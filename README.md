@@ -3,3 +3,4 @@
 - [ ] **raXL SPC**
 - [ ] **raXL Project**
 - [ ] **raXL Simulator**
+- [ ] **raXL Math**, mathematical add-in for numerical methods in Excel.
